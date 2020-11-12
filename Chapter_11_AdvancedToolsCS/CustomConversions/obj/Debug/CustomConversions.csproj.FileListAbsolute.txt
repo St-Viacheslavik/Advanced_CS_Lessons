@@ -1,0 +1,7 @@
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\CustomConversions\bin\Debug\CustomConversions.exe.config
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\CustomConversions\bin\Debug\CustomConversions.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\CustomConversions\bin\Debug\CustomConversions.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\CustomConversions\obj\Debug\CustomConversions.csprojAssemblyReference.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\CustomConversions\obj\Debug\CustomConversions.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\CustomConversions\obj\Debug\CustomConversions.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\CustomConversions\obj\Debug\CustomConversions.pdb
