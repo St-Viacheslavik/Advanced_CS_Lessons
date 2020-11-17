@@ -1,0 +1,7 @@
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\AnonymousTypes\bin\Debug\AnonymousTypes.exe.config
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\AnonymousTypes\bin\Debug\AnonymousTypes.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\AnonymousTypes\bin\Debug\AnonymousTypes.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\AnonymousTypes\obj\Debug\AnonymousTypes.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\AnonymousTypes\obj\Debug\AnonymousTypes.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\AnonymousTypes\obj\Debug\AnonymousTypes.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\AnonymousTypes\obj\Debug\AnonymousTypes.csprojAssemblyReference.cache

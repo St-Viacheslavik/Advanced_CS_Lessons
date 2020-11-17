@@ -1,0 +1,7 @@
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\InterfaceExtensions\bin\Debug\InterfaceExtensions.exe.config
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\InterfaceExtensions\bin\Debug\InterfaceExtensions.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\InterfaceExtensions\bin\Debug\InterfaceExtensions.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\InterfaceExtensions\obj\Debug\InterfaceExtensions.csprojAssemblyReference.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\InterfaceExtensions\obj\Debug\InterfaceExtensions.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\InterfaceExtensions\obj\Debug\InterfaceExtensions.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\InterfaceExtensions\obj\Debug\InterfaceExtensions.pdb
