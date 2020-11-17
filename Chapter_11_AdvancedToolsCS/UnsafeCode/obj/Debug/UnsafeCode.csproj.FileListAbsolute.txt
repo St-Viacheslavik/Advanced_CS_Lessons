@@ -1,0 +1,7 @@
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\UnsafeCode\bin\Debug\UnsafeCode.exe.config
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\UnsafeCode\bin\Debug\UnsafeCode.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\UnsafeCode\bin\Debug\UnsafeCode.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\UnsafeCode\obj\Debug\UnsafeCode.csprojAssemblyReference.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\UnsafeCode\obj\Debug\UnsafeCode.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\UnsafeCode\obj\Debug\UnsafeCode.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\UnsafeCode\obj\Debug\UnsafeCode.pdb
