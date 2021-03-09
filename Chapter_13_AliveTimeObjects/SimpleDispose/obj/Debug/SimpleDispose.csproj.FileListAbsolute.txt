@@ -1,0 +1,6 @@
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\SimpleDispose\bin\Debug\SimpleDispose.exe.config
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\SimpleDispose\bin\Debug\SimpleDispose.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\SimpleDispose\bin\Debug\SimpleDispose.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\SimpleDispose\obj\Debug\SimpleDispose.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\SimpleDispose\obj\Debug\SimpleDispose.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\SimpleDispose\obj\Debug\SimpleDispose.pdb
