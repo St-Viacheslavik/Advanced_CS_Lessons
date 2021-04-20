@@ -1,6 +1,5 @@
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\CarLib_dll\CarLibrary\bin\Debug\CarLibrary.dll
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\CarLib_dll\CarLibrary\bin\Debug\CarLibrary.pdb
-E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\CarLib_dll\CarLibrary\obj\Debug\CarLibrary.csprojAssemblyReference.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\CarLib_dll\CarLibrary\obj\Debug\CarLibrary.csproj.CoreCompileInputs.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\CarLib_dll\CarLibrary\obj\Debug\CarLibrary.dll
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\CarLib_dll\CarLibrary\obj\Debug\CarLibrary.pdb

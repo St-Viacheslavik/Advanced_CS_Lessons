@@ -1,0 +1,6 @@
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\AppConfigReaderApp\bin\Debug\AppConfigReaderApp.exe.config
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\AppConfigReaderApp\bin\Debug\AppConfigReaderApp.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\AppConfigReaderApp\bin\Debug\AppConfigReaderApp.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\AppConfigReaderApp\obj\Debug\AppConfigReaderApp.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\AppConfigReaderApp\obj\Debug\AppConfigReaderApp.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\AppConfigReaderApp\obj\Debug\AppConfigReaderApp.pdb
