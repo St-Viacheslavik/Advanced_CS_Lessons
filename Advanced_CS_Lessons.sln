@@ -43,6 +43,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalazibleAndDisposibleCla
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LazyObjectInitialization", "Chapter_13_AliveTimeObjects\LazyObjectInitialization\LazyObjectInitialization.csproj", "{C3E69068-2D38-4AE6-BB15-1A311DA35779}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter_14_DLL", "Chapter_14_DLL", "{DB935A95-D540-4D5A-9752-78CECA599636}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarLibrary", "Chapter_14_DLL\CarLib_dll\CarLibrary\CarLibrary.csproj", "{905922AF-8E32-481F-B62A-FCAFD2E17ED8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,10 @@ Global
 		{C3E69068-2D38-4AE6-BB15-1A311DA35779}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3E69068-2D38-4AE6-BB15-1A311DA35779}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3E69068-2D38-4AE6-BB15-1A311DA35779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{905922AF-8E32-481F-B62A-FCAFD2E17ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{905922AF-8E32-481F-B62A-FCAFD2E17ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{905922AF-8E32-481F-B62A-FCAFD2E17ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{905922AF-8E32-481F-B62A-FCAFD2E17ED8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -139,6 +147,7 @@ Global
 		{D97AB2C6-7E23-44F5-BF1A-2D9CB2E04A67} = {FB6FDD8B-8510-49DC-871C-AE6EB95D6E50}
 		{5230FA3E-71D5-42F8-A5AD-FC1F78DE9BE2} = {FB6FDD8B-8510-49DC-871C-AE6EB95D6E50}
 		{C3E69068-2D38-4AE6-BB15-1A311DA35779} = {FB6FDD8B-8510-49DC-871C-AE6EB95D6E50}
+		{905922AF-8E32-481F-B62A-FCAFD2E17ED8} = {DB935A95-D540-4D5A-9752-78CECA599636}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {090DE143-BCE2-434D-A722-1968CA1ABEC4}
