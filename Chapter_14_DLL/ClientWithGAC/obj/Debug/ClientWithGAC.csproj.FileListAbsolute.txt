@@ -1,0 +1,7 @@
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\ClientWithGAC\bin\Debug\ClientWithGAC.exe.config
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\ClientWithGAC\bin\Debug\ClientWithGAC.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\ClientWithGAC\bin\Debug\ClientWithGAC.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\ClientWithGAC\obj\Debug\ClientWithGAC.csprojAssemblyReference.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\ClientWithGAC\obj\Debug\ClientWithGAC.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\ClientWithGAC\obj\Debug\ClientWithGAC.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\ClientWithGAC\obj\Debug\ClientWithGAC.pdb

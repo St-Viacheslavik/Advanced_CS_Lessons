@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>VisualBasicConsole</RootNamespace>
+    <TargetFramework>net5.0</TargetFramework>
+    <StartupObject>Sub Main</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CarLib_dll\CarLibrary\CarLibrary.csproj" />
+  </ItemGroup>
+
+</Project>
