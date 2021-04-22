@@ -1,0 +1,7 @@
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\TypeViewer\bin\Debug\TypeViewer.exe.config
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\TypeViewer\bin\Debug\TypeViewer.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\TypeViewer\bin\Debug\TypeViewer.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\TypeViewer\obj\Debug\TypeViewer.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\TypeViewer\obj\Debug\TypeViewer.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\TypeViewer\obj\Debug\TypeViewer.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\TypeViewer\obj\Debug\TypeViewer.csprojAssemblyReference.cache
