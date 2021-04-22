@@ -49,11 +49,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarLibrary", "Chapter_14_DL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleClient", "Chapter_14_DLL\ConsoleClient\ConsoleClient.csproj", "{86609957-285E-410D-A24E-047B5313315A}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VisualBasicConsole", "Chapter_14_DLL\VisualBasicConsole\VisualBasicConsole.vbproj", "{24436707-F4C0-4D8A-BB4E-D4A51E85D40E}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "VisualBasicConsole", "Chapter_14_DLL\VisualBasicConsole\VisualBasicConsole.vbproj", "{24436707-F4C0-4D8A-BB4E-D4A51E85D40E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientWithGAC", "Chapter_14_DLL\ClientWithGAC\ClientWithGAC.csproj", "{EE0D10A7-FFC6-4500-A18D-794901DFA070}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppConfigReaderApp", "Chapter_14_DLL\AppConfigReaderApp\AppConfigReaderApp.csproj", "{E5A6C04E-A41A-4B59-BC39-60AF488110DA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter_15_Reflection", "Chapter_15_Reflection", "{ABFAA801-B838-412A-856C-0B23236FED38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleReflection", "Chapter_15_Reflection\SimpleReflection\SimpleReflection.csproj", "{C6281093-7EE9-4859-ACC2-8D9767F0A03F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -149,6 +153,10 @@ Global
 		{E5A6C04E-A41A-4B59-BC39-60AF488110DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5A6C04E-A41A-4B59-BC39-60AF488110DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5A6C04E-A41A-4B59-BC39-60AF488110DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6281093-7EE9-4859-ACC2-8D9767F0A03F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6281093-7EE9-4859-ACC2-8D9767F0A03F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6281093-7EE9-4859-ACC2-8D9767F0A03F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6281093-7EE9-4859-ACC2-8D9767F0A03F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -176,6 +184,7 @@ Global
 		{24436707-F4C0-4D8A-BB4E-D4A51E85D40E} = {DB935A95-D540-4D5A-9752-78CECA599636}
 		{EE0D10A7-FFC6-4500-A18D-794901DFA070} = {DB935A95-D540-4D5A-9752-78CECA599636}
 		{E5A6C04E-A41A-4B59-BC39-60AF488110DA} = {DB935A95-D540-4D5A-9752-78CECA599636}
+		{C6281093-7EE9-4859-ACC2-8D9767F0A03F} = {ABFAA801-B838-412A-856C-0B23236FED38}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {090DE143-BCE2-434D-A722-1968CA1ABEC4}
