@@ -17,7 +17,7 @@ namespace ExternalAssemblyReflector
             Console.WriteLine("Выберете сборку в диалоговом окне");
             while (true)
             {
-                var fileDialog = new OpenFileDialog();
+                var fileDialog = new OpenFileDialog {Filter = "Библиотеки dll|*.dll"};
                 if (fileDialog.ShowDialog() == DialogResult.OK)
                 {
                     Console.WriteLine($"Путь к сборке: {fileDialog.FileName}");
@@ -50,7 +50,6 @@ namespace ExternalAssemblyReflector
             }
 
             Console.WriteLine();
-
             var attributes = assembly.GetCustomAttributes();
             foreach (var attribute in attributes)
             {
