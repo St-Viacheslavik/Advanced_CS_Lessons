@@ -46,25 +46,30 @@ namespace ExternalAssemblyReflector
             Console.WriteLine($"Название сборки: {assembly.FullName}");
             Console.WriteLine($"Сборка загружена из GAC? {assembly.GlobalAssemblyCache}");
             var types = assembly.GetTypes();
+
+            var classes = types.Where(m => m.IsClass);
+            Console.WriteLine("***********Classes***********");
+            foreach (var classType in classes) Console.WriteLine("\t{0}", classType);
+
+            var methods = types.SelectMany(f => f.GetMethods());
+            Console.WriteLine("***********Methods***********");
+            foreach (var method in methods) Console.WriteLine("\t{0}", method);
+            Console.WriteLine();
+
             var enums = types.Where(m => m.IsEnum);
             Console.WriteLine("***********Enums***********");
             foreach (var enumType in enums) Console.WriteLine("\t{0}", enumType);
 
             Console.WriteLine();
 
-            var methods = types.Select(f => f.GetMethods());
-            Console.WriteLine("***********Methods***********");
-            foreach (object[] method in methods) Console.WriteLine("\t{0}", method);
-            Console.WriteLine();
-
             var interfaces = types.Where(i => i.IsInterface);
             Console.WriteLine("***********Interfaces***********");
             foreach (var iInterface in interfaces) Console.WriteLine("\t{0}", iInterface);
             Console.WriteLine();
-
-            var fields = types.Select(f => f.GetFields());
+            
+            var fields = types.SelectMany(f => f.GetFields());
             Console.WriteLine("***********Fileds***********");
-            foreach (object[] field in fields) Console.WriteLine("\t{0}", field);
+            foreach (var field in fields) Console.WriteLine("\t{0}", field);
             Console.WriteLine();
         }
 
