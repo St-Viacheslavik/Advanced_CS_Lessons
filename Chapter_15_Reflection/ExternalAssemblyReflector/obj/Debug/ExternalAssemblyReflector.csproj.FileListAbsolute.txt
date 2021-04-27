@@ -1,0 +1,7 @@
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\ExternalAssemblyReflector\bin\Debug\ExternalAssemblyReflector.exe.config
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\ExternalAssemblyReflector\bin\Debug\ExternalAssemblyReflector.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\ExternalAssemblyReflector\bin\Debug\ExternalAssemblyReflector.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\ExternalAssemblyReflector\obj\Debug\ExternalAssemblyReflector.csprojAssemblyReference.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\ExternalAssemblyReflector\obj\Debug\ExternalAssemblyReflector.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\ExternalAssemblyReflector\obj\Debug\ExternalAssemblyReflector.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\ExternalAssemblyReflector\obj\Debug\ExternalAssemblyReflector.pdb
