@@ -69,6 +69,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplyingAttributes", "Chapt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributeCarLibrary", "Chapter_15_Reflection\AttributeCarLibrary\AttributeCarLibrary.csproj", "{E53FB512-7C26-4B69-B7CA-34F9B9B390D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleAttributeReader", "Chapter_15_Reflection\VehicleAttributeReader\VehicleAttributeReader.csproj", "{303E0657-1D25-4795-B463-E69EFC6D198D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectOnAttributesUsingLateBuilding", "Chapter_15_Reflection\ReflectOnAttributesUsingLateBuilding\ReflectOnAttributesUsingLateBuilding.csproj", "{4AF33DA7-5DD4-4966-818C-D33F620A7CD9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -187,6 +191,14 @@ Global
 		{E53FB512-7C26-4B69-B7CA-34F9B9B390D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E53FB512-7C26-4B69-B7CA-34F9B9B390D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E53FB512-7C26-4B69-B7CA-34F9B9B390D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{303E0657-1D25-4795-B463-E69EFC6D198D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{303E0657-1D25-4795-B463-E69EFC6D198D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{303E0657-1D25-4795-B463-E69EFC6D198D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{303E0657-1D25-4795-B463-E69EFC6D198D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AF33DA7-5DD4-4966-818C-D33F620A7CD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF33DA7-5DD4-4966-818C-D33F620A7CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF33DA7-5DD4-4966-818C-D33F620A7CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF33DA7-5DD4-4966-818C-D33F620A7CD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -220,6 +232,8 @@ Global
 		{F06BC3B6-6D23-4D58-A0CD-22E4B9114598} = {ABFAA801-B838-412A-856C-0B23236FED38}
 		{E4BF7A22-9E13-44BF-97BC-BB1EF44A99F9} = {ABFAA801-B838-412A-856C-0B23236FED38}
 		{E53FB512-7C26-4B69-B7CA-34F9B9B390D5} = {ABFAA801-B838-412A-856C-0B23236FED38}
+		{303E0657-1D25-4795-B463-E69EFC6D198D} = {ABFAA801-B838-412A-856C-0B23236FED38}
+		{4AF33DA7-5DD4-4966-818C-D33F620A7CD9} = {ABFAA801-B838-412A-856C-0B23236FED38}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {090DE143-BCE2-434D-A722-1968CA1ABEC4}

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E53FB512-7C26-4B69-B7CA-34F9B9B390D5}</ProjectGuid>
-    <OutputType>Library</OutputType>
-    <RootNamespace>AttributeCarLibrary</RootNamespace>
-    <AssemblyName>AttributeCarLibrary</AssemblyName>
+    <ProjectGuid>{303E0657-1D25-4795-B463-E69EFC6D198D}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>VehicleAttributeReader</RootNamespace>
+    <AssemblyName>VehicleAttributeReader</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,9 +32,6 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject />
-  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -46,14 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Horse.cs" />
-    <Compile Include="Motorcycle.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="VehicleDescriptionAttribute.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AttributeCarLibrary\AttributeCarLibrary.csproj">
+      <Project>{e53fb512-7c26-4b69-b7ca-34f9b9b390d5}</Project>
+      <Name>AttributeCarLibrary</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

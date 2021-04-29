@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E53FB512-7C26-4B69-B7CA-34F9B9B390D5}</ProjectGuid>
-    <OutputType>Library</OutputType>
-    <RootNamespace>AttributeCarLibrary</RootNamespace>
-    <AssemblyName>AttributeCarLibrary</AssemblyName>
+    <ProjectGuid>{4AF33DA7-5DD4-4966-818C-D33F620A7CD9}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>ReflectOnAttributesUsingLateBuilding</RootNamespace>
+    <AssemblyName>ReflectOnAttributesUsingLateBuilding</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,9 +32,6 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject />
-  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -46,11 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Horse.cs" />
-    <Compile Include="Motorcycle.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="VehicleDescriptionAttribute.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

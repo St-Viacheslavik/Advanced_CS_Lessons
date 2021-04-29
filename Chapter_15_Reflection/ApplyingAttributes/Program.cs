@@ -14,7 +14,7 @@ namespace ApplyingAttributes
             Console.Title = "Применение атрибутов";
             Console.ForegroundColor = ConsoleColor.Green;
             var motorcycle = new Motorcycle(){HasBar = true, HasHeadSet = false, HasRadioSystem = true, WeightPassenger = 65.5F};
-            using (var writer = new FileStream("log.xml", FileMode.Create))
+            using (var writer = new FileStream("log.txt", FileMode.Create))
             {
                 var xml = new XmlSerializer(typeof(Motorcycle));
                 xml.Serialize(writer, motorcycle);

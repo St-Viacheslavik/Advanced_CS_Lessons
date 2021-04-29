@@ -16,7 +16,7 @@ namespace AttributeCarLibrary
             Console.Title = "Построение собственных аттрибутов";
             Console.ForegroundColor = ConsoleColor.Green;
             var motorcycle = new Motorcycle();
-            using (var writer = new FileStream("log.xml", FileMode.Create))
+            using (var writer = new FileStream("log.txt", FileMode.Create))
             {
                 var xml = new XmlSerializer(typeof(Motorcycle));
                 xml.Serialize(writer, motorcycle);
