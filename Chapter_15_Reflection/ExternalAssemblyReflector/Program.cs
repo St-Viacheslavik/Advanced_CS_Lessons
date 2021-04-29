@@ -77,9 +77,15 @@ namespace ExternalAssemblyReflector
         {
             Console.WriteLine("Желаете продолжить? Y/y - Да, для выхода введите любой другой символ");
             var chose = Console.ReadLine();
-            Debug.Assert(chose != null, nameof(chose) + " != null");
-            return chose != null && (chose.Equals("Y", StringComparison.Ordinal) ||
+            #if DEBUG
+                Debug.Assert(chose != null, nameof(chose) + " != null");
+                return (chose.Equals("Y", StringComparison.Ordinal) ||
                                      chose.Equals("y", StringComparison.Ordinal));
+            #endif
+            #if RELEASE
+                return chose != null && (chose.Equals("Y", StringComparison.Ordinal) ||
+                                                 chose.Equals("y", StringComparison.Ordinal));
+            #endif
         }
     }
 }
