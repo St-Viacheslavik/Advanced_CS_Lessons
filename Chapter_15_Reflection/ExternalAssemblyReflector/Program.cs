@@ -82,7 +82,7 @@ namespace ExternalAssemblyReflector
                 return (chose.Equals("Y", StringComparison.Ordinal) ||
                                      chose.Equals("y", StringComparison.Ordinal));
             #endif
-            #if RELEASE
+            #if !DEBUG
                 return chose != null && (chose.Equals("Y", StringComparison.Ordinal) ||
                                                  chose.Equals("y", StringComparison.Ordinal));
             #endif

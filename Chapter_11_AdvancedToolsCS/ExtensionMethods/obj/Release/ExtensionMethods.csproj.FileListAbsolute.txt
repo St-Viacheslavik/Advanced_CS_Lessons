@@ -1,0 +1,6 @@
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\ExtensionMethods\bin\Release\ExtensionMethods.exe.config
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\ExtensionMethods\bin\Release\ExtensionMethods.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\ExtensionMethods\bin\Release\ExtensionMethods.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\ExtensionMethods\obj\Release\ExtensionMethods.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\ExtensionMethods\obj\Release\ExtensionMethods.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\ExtensionMethods\obj\Release\ExtensionMethods.pdb
