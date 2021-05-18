@@ -4,4 +4,3 @@ E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\ListOverCollectio
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\ListOverCollections\obj\Debug\ListOverCollections.csproj.CoreCompileInputs.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\ListOverCollections\obj\Debug\ListOverCollections.exe
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\ListOverCollections\obj\Debug\ListOverCollections.pdb
-E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\ListOverCollections\obj\Debug\ListOverCollections.csprojAssemblyReference.cache

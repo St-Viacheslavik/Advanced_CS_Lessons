@@ -1,7 +1,6 @@
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\FinalazibleAndDisposibleClass\bin\Debug\FinalazibleAndDisposibleClass.exe.config
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\FinalazibleAndDisposibleClass\bin\Debug\FinalazibleAndDisposibleClass.exe
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\FinalazibleAndDisposibleClass\bin\Debug\FinalazibleAndDisposibleClass.pdb
-E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\FinalazibleAndDisposibleClass\obj\Debug\FinalazibleAndDisposibleClass.csprojAssemblyReference.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\FinalazibleAndDisposibleClass\obj\Debug\FinalazibleAndDisposibleClass.csproj.CoreCompileInputs.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\FinalazibleAndDisposibleClass\obj\Debug\FinalazibleAndDisposibleClass.exe
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\FinalazibleAndDisposibleClass\obj\Debug\FinalazibleAndDisposibleClass.pdb

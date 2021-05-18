@@ -1,7 +1,6 @@
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\LinqUsingEnumerable\bin\Debug\LinqUsingEnumerable.exe.config
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\LinqUsingEnumerable\bin\Debug\LinqUsingEnumerable.exe
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\LinqUsingEnumerable\bin\Debug\LinqUsingEnumerable.pdb
-E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.csprojAssemblyReference.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.csproj.CoreCompileInputs.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.exe
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.pdb

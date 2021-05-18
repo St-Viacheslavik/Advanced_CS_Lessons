@@ -1,7 +1,6 @@
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\LinqRetValues\bin\Debug\LinqRetValues.exe.config
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\LinqRetValues\bin\Debug\LinqRetValues.exe
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\LinqRetValues\bin\Debug\LinqRetValues.pdb
-E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\LinqRetValues\obj\Debug\LinqRetValues.csprojAssemblyReference.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\LinqRetValues\obj\Debug\LinqRetValues.csproj.CoreCompileInputs.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\LinqRetValues\obj\Debug\LinqRetValues.exe
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\LinqRetValues\obj\Debug\LinqRetValues.pdb

@@ -1,7 +1,6 @@
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\LinqExpressions\bin\Debug\LinqExpressions.exe.config
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\LinqExpressions\bin\Debug\LinqExpressions.exe
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\LinqExpressions\bin\Debug\LinqExpressions.pdb
-E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\LinqExpressions\obj\Debug\LinqExpressions.csprojAssemblyReference.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\LinqExpressions\obj\Debug\LinqExpressions.csproj.CoreCompileInputs.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\LinqExpressions\obj\Debug\LinqExpressions.exe
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\LinqExpressions\obj\Debug\LinqExpressions.pdb

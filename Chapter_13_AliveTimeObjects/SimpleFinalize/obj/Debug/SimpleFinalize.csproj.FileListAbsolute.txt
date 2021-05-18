@@ -1,7 +1,6 @@
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\SimpleFinalize\bin\Debug\SimpleFinalize.exe.config
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\SimpleFinalize\bin\Debug\SimpleFinalize.exe
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\SimpleFinalize\bin\Debug\SimpleFinalize.pdb
-E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\SimpleFinalize\obj\Debug\SimpleFinalize.csprojAssemblyReference.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\SimpleFinalize\obj\Debug\SimpleFinalize.csproj.CoreCompileInputs.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\SimpleFinalize\obj\Debug\SimpleFinalize.exe
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\SimpleFinalize\obj\Debug\SimpleFinalize.pdb

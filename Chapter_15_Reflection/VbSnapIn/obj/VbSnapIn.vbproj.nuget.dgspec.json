@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Programming\\C#\\Advanced_CS_Lessons\\Chapter_15_Reflection\\VbSnapIn\\VbSnapIn.vbproj": {}
+  },
+  "projects": {
+    "E:\\Programming\\C#\\Advanced_CS_Lessons\\Chapter_15_Reflection\\CommonSnappableTypes\\CommonSnappableTypes.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\Programming\\C#\\Advanced_CS_Lessons\\Chapter_15_Reflection\\CommonSnappableTypes\\CommonSnappableTypes.csproj",
+        "projectName": "CommonSnappableTypes",
+        "projectPath": "E:\\Programming\\C#\\Advanced_CS_Lessons\\Chapter_15_Reflection\\CommonSnappableTypes\\CommonSnappableTypes.csproj"
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "E:\\Programming\\C#\\Advanced_CS_Lessons\\Chapter_15_Reflection\\VbSnapIn\\VbSnapIn.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Programming\\C#\\Advanced_CS_Lessons\\Chapter_15_Reflection\\VbSnapIn\\VbSnapIn.vbproj",
+        "projectName": "VbSnapIn",
+        "projectPath": "E:\\Programming\\C#\\Advanced_CS_Lessons\\Chapter_15_Reflection\\VbSnapIn\\VbSnapIn.vbproj",
+        "packagesPath": "C:\\Users\\Viacheslav\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming\\C#\\Advanced_CS_Lessons\\Chapter_15_Reflection\\VbSnapIn\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Viacheslav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Programming\\C#\\Advanced_CS_Lessons\\Chapter_15_Reflection\\CommonSnappableTypes\\CommonSnappableTypes.csproj": {
+                "projectPath": "E:\\Programming\\C#\\Advanced_CS_Lessons\\Chapter_15_Reflection\\CommonSnappableTypes\\CommonSnappableTypes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

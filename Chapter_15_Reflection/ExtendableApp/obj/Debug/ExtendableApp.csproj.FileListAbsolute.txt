@@ -1,0 +1,10 @@
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\ExtendableApp\bin\Debug\ExtendableApp.exe.config
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\ExtendableApp\bin\Debug\ExtendableApp.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\ExtendableApp\bin\Debug\ExtendableApp.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\ExtendableApp\bin\Debug\CommonSnappableTypes.dll
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\ExtendableApp\bin\Debug\CommonSnappableTypes.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\ExtendableApp\obj\Debug\ExtendableApp.csprojAssemblyReference.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\ExtendableApp\obj\Debug\ExtendableApp.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\ExtendableApp\obj\Debug\ExtendableApp.csproj.CopyComplete
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\ExtendableApp\obj\Debug\ExtendableApp.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\ExtendableApp\obj\Debug\ExtendableApp.pdb

@@ -1,7 +1,6 @@
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\SimpleGC\bin\Debug\SimpleGC.exe.config
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\SimpleGC\bin\Debug\SimpleGC.exe
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\SimpleGC\bin\Debug\SimpleGC.pdb
-E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\SimpleGC\obj\Debug\SimpleGC.csprojAssemblyReference.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\SimpleGC\obj\Debug\SimpleGC.csproj.CoreCompileInputs.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\SimpleGC\obj\Debug\SimpleGC.exe
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\SimpleGC\obj\Debug\SimpleGC.pdb

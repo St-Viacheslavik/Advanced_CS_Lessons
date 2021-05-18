@@ -1,7 +1,6 @@
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\LazyObjectInitialization\bin\Debug\LazyObjectInitialization.exe.config
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\LazyObjectInitialization\bin\Debug\LazyObjectInitialization.exe
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\LazyObjectInitialization\bin\Debug\LazyObjectInitialization.pdb
-E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\LazyObjectInitialization\obj\Debug\LazyObjectInitialization.csprojAssemblyReference.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\LazyObjectInitialization\obj\Debug\LazyObjectInitialization.csproj.CoreCompileInputs.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\LazyObjectInitialization\obj\Debug\LazyObjectInitialization.exe
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_13_AliveTimeObjects\LazyObjectInitialization\obj\Debug\LazyObjectInitialization.pdb

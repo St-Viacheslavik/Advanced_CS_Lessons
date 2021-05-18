@@ -1,0 +1,15 @@
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VbSnapIn\bin\Debug\net5.0\VbSnapIn.deps.json
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VbSnapIn\bin\Debug\net5.0\VbSnapIn.dll
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VbSnapIn\bin\Debug\net5.0\ref\VbSnapIn.dll
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VbSnapIn\bin\Debug\net5.0\VbSnapIn.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VbSnapIn\bin\Debug\net5.0\CommonSnappableTypes.dll
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VbSnapIn\bin\Debug\net5.0\CommonSnappableTypes.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VbSnapIn\obj\Debug\net5.0\VbSnapIn.vbprojAssemblyReference.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VbSnapIn\obj\Debug\net5.0\VbSnapIn.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VbSnapIn\obj\Debug\net5.0\VbSnapIn.AssemblyInfoInputs.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VbSnapIn\obj\Debug\net5.0\VbSnapIn.AssemblyInfo.vb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VbSnapIn\obj\Debug\net5.0\VbSnapIn.vbproj.CoreCompileInputs.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VbSnapIn\obj\Debug\net5.0\VbSnapIn.vbproj.CopyComplete
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VbSnapIn\obj\Debug\net5.0\VbSnapIn.dll
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VbSnapIn\obj\Debug\net5.0\ref\VbSnapIn.dll
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VbSnapIn\obj\Debug\net5.0\VbSnapIn.pdb

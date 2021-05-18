@@ -1,7 +1,6 @@
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\LinqOverArray\bin\Debug\LinqOverArray.exe.config
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\LinqOverArray\bin\Debug\LinqOverArray.exe
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\LinqOverArray\bin\Debug\LinqOverArray.pdb
-E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\LinqOverArray\obj\Debug\LinqOverArray.csprojAssemblyReference.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\LinqOverArray\obj\Debug\LinqOverArray.csproj.CoreCompileInputs.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\LinqOverArray\obj\Debug\LinqOverArray.exe
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_12_LinqToObjects\LinqOverArray\obj\Debug\LinqOverArray.pdb

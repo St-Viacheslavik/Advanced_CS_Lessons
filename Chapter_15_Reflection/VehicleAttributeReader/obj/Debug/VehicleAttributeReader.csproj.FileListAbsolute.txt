@@ -1,11 +1,11 @@
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VehicleAttributeReader\bin\Debug\VehicleAttributeReader.exe.config
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VehicleAttributeReader\bin\Debug\VehicleAttributeReader.exe
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VehicleAttributeReader\bin\Debug\VehicleAttributeReader.pdb
-E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VehicleAttributeReader\bin\Debug\AttributeCarLibrary.exe
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VehicleAttributeReader\bin\Debug\AttributeCarLibrary.pdb
-E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VehicleAttributeReader\bin\Debug\AttributeCarLibrary.exe.config
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VehicleAttributeReader\obj\Debug\VehicleAttributeReader.csprojAssemblyReference.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VehicleAttributeReader\obj\Debug\VehicleAttributeReader.csproj.CoreCompileInputs.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VehicleAttributeReader\obj\Debug\VehicleAttributeReader.csproj.CopyComplete
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VehicleAttributeReader\obj\Debug\VehicleAttributeReader.exe
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VehicleAttributeReader\obj\Debug\VehicleAttributeReader.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VehicleAttributeReader\bin\Debug\AttributeCarLibrary.dll
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VehicleAttributeReader\bin\Debug\AttributeCarLibrary.dll.config

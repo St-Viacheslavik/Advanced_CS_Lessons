@@ -4,4 +4,3 @@ E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\AnonymousTypes\
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\AnonymousTypes\obj\Debug\AnonymousTypes.csproj.CoreCompileInputs.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\AnonymousTypes\obj\Debug\AnonymousTypes.exe
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\AnonymousTypes\obj\Debug\AnonymousTypes.pdb
-E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\AnonymousTypes\obj\Debug\AnonymousTypes.csprojAssemblyReference.cache
