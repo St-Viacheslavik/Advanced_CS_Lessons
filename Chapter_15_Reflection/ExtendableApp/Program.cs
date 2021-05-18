@@ -76,12 +76,11 @@ namespace ExtendableApp
             }
 
             // Get all IAppFunctionality compatible classes in assembly.
-            var theClassTypes = from t in theSnapInAsm.GetTypes()
-                where t.IsClass && (t.GetInterface("IAppFunctionality") != null)
-                select t;
+            var theClassTypes = theSnapInAsm.GetTypes()
+                .Where(t => t.IsClass && (t.GetInterface("IAppFunctionality") != null));
 
             // Now, create the object and call DoIt() method.
-            foreach (Type t in theClassTypes)
+            foreach (var t in theClassTypes)
             {
                 foundSnapIn = true;
                 // Use late binding to create the type.
@@ -98,9 +97,8 @@ namespace ExtendableApp
         private static void DisplayCompanyData(Type t)
         {
             // Get [CompanyInfo] data.
-            var compInfo = from ci in t.GetCustomAttributes(false)
-                where (ci is CommonSnappableTypes.CommonSnappableTypes.CompanyInfoAttribute)
-                select ci;
+            var compInfo = t.GetCustomAttributes(false)
+                .Where(ci => (ci is CommonSnappableTypes.CommonSnappableTypes.CompanyInfoAttribute));
 
             // Show data.
             foreach (CommonSnappableTypes.CommonSnappableTypes.CompanyInfoAttribute c in compInfo)
