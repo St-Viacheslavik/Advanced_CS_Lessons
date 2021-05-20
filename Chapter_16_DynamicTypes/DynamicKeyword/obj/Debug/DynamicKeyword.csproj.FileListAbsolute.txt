@@ -1,0 +1,7 @@
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_16_DynamicTypes\DynamicKeyword\bin\Debug\DynamicKeyword.exe.config
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_16_DynamicTypes\DynamicKeyword\bin\Debug\DynamicKeyword.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_16_DynamicTypes\DynamicKeyword\bin\Debug\DynamicKeyword.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_16_DynamicTypes\DynamicKeyword\obj\Debug\DynamicKeyword.csprojAssemblyReference.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_16_DynamicTypes\DynamicKeyword\obj\Debug\DynamicKeyword.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_16_DynamicTypes\DynamicKeyword\obj\Debug\DynamicKeyword.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_16_DynamicTypes\DynamicKeyword\obj\Debug\DynamicKeyword.pdb
