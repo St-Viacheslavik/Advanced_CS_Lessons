@@ -1,0 +1,6 @@
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_16_DynamicTypes\DynamicMathLibrary\bin\Debug\DynamicMathLibrary.dll
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_16_DynamicTypes\DynamicMathLibrary\bin\Debug\DynamicMathLibrary.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_16_DynamicTypes\DynamicMathLibrary\obj\Debug\DynamicMathLibrary.csprojAssemblyReference.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_16_DynamicTypes\DynamicMathLibrary\obj\Debug\DynamicMathLibrary.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_16_DynamicTypes\DynamicMathLibrary\obj\Debug\DynamicMathLibrary.dll
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_16_DynamicTypes\DynamicMathLibrary\obj\Debug\DynamicMathLibrary.pdb
