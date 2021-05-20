@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{303E0657-1D25-4795-B463-E69EFC6D198D}</ProjectGuid>
+    <ProjectGuid>{C6140E40-8A0F-4354-B538-8C6FE24FBED5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>VehicleAttributeReader</RootNamespace>
-    <AssemblyName>VehicleAttributeReader</AssemblyName>
+    <RootNamespace>ExportDataToOfficeApp</RootNamespace>
+    <AssemblyName>ExportDataToOfficeApp</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -43,21 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Car.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\ApplyingAttributes\ApplyingAttributes.csproj">
-      <Project>{E4BF7A22-9E13-44BF-97BC-BB1EF44A99F9}</Project>
-      <Name>ApplyingAttributes</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\AttributeCarLibrary\AttributeCarLibrary.csproj">
-      <Project>{e53fb512-7c26-4b69-b7ca-34f9b9b390d5}</Project>
-      <Name>AttributeCarLibrary</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -9,3 +9,6 @@ E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VehicleAttributeRead
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VehicleAttributeReader\obj\Debug\VehicleAttributeReader.pdb
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VehicleAttributeReader\bin\Debug\AttributeCarLibrary.dll
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VehicleAttributeReader\bin\Debug\AttributeCarLibrary.dll.config
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VehicleAttributeReader\bin\Debug\ApplyingAttributes.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VehicleAttributeReader\bin\Debug\ApplyingAttributes.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\VehicleAttributeReader\bin\Debug\ApplyingAttributes.exe.config

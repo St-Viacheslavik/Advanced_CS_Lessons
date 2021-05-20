@@ -2,7 +2,6 @@ E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\SimpleReflection\bin
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\SimpleReflection\bin\Debug\SimpleReflection.exe
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\SimpleReflection\bin\Debug\SimpleReflection.pdb
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\SimpleReflection\bin\Debug\CarLibrary.dll
-E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\SimpleReflection\obj\Debug\SimpleReflection.csprojAssemblyReference.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\SimpleReflection\obj\Debug\SimpleReflection.csproj.CoreCompileInputs.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\SimpleReflection\obj\Debug\SimpleReflection.csproj.CopyComplete
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\SimpleReflection\obj\Debug\SimpleReflection.exe
