@@ -1,0 +1,6 @@
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_17_ProcessesDomens\ObjectContextApp\bin\Debug\ObjectContextApp.exe.config
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_17_ProcessesDomens\ObjectContextApp\bin\Debug\ObjectContextApp.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_17_ProcessesDomens\ObjectContextApp\bin\Debug\ObjectContextApp.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_17_ProcessesDomens\ObjectContextApp\obj\Debug\ObjectContextApp.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_17_ProcessesDomens\ObjectContextApp\obj\Debug\ObjectContextApp.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_17_ProcessesDomens\ObjectContextApp\obj\Debug\ObjectContextApp.pdb
