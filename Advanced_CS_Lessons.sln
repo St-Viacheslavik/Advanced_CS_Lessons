@@ -105,6 +105,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessManipulator", "Chapt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultAppDomain", "Chapter_17_ProcessesDomens\DefaultAppDomain\DefaultAppDomain.csproj", "{0A4176C1-E5EB-45D0-8748-755682A3E76D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomAppDomain", "Chapter_17_ProcessesDomens\CustomAppDomain\CustomAppDomain.csproj", "{611EBB14-7016-4D04-96FC-53E8C4D85423}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -271,6 +273,10 @@ Global
 		{0A4176C1-E5EB-45D0-8748-755682A3E76D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A4176C1-E5EB-45D0-8748-755682A3E76D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A4176C1-E5EB-45D0-8748-755682A3E76D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{611EBB14-7016-4D04-96FC-53E8C4D85423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611EBB14-7016-4D04-96FC-53E8C4D85423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611EBB14-7016-4D04-96FC-53E8C4D85423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611EBB14-7016-4D04-96FC-53E8C4D85423}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -318,6 +324,7 @@ Global
 		{C6140E40-8A0F-4354-B538-8C6FE24FBED5} = {F06DDC97-B8AB-43A9-A22F-D00F82910B73}
 		{3199E8CE-EA48-4621-9619-3C2FBB570302} = {DA9F28FC-ABB3-463A-A43C-836B9B9DCFD8}
 		{0A4176C1-E5EB-45D0-8748-755682A3E76D} = {DA9F28FC-ABB3-463A-A43C-836B9B9DCFD8}
+		{611EBB14-7016-4D04-96FC-53E8C4D85423} = {DA9F28FC-ABB3-463A-A43C-836B9B9DCFD8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {090DE143-BCE2-434D-A722-1968CA1ABEC4}

@@ -1,0 +1,7 @@
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_17_ProcessesDomens\CustomAppDomain\bin\Debug\CustomAppDomain.exe.config
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_17_ProcessesDomens\CustomAppDomain\bin\Debug\CustomAppDomain.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_17_ProcessesDomens\CustomAppDomain\bin\Debug\CustomAppDomain.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_17_ProcessesDomens\CustomAppDomain\obj\Debug\CustomAppDomain.csproj.AssemblyReference.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_17_ProcessesDomens\CustomAppDomain\obj\Debug\CustomAppDomain.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_17_ProcessesDomens\CustomAppDomain\obj\Debug\CustomAppDomain.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_17_ProcessesDomens\CustomAppDomain\obj\Debug\CustomAppDomain.pdb
