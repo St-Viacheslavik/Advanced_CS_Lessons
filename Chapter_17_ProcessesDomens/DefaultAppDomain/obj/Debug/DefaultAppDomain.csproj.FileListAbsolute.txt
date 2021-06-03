@@ -1,0 +1,6 @@
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_17_ProcessesDomens\DefaultAppDomain\bin\Debug\DefaultAppDomain.exe.config
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_17_ProcessesDomens\DefaultAppDomain\bin\Debug\DefaultAppDomain.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_17_ProcessesDomens\DefaultAppDomain\bin\Debug\DefaultAppDomain.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_17_ProcessesDomens\DefaultAppDomain\obj\Debug\DefaultAppDomain.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_17_ProcessesDomens\DefaultAppDomain\obj\Debug\DefaultAppDomain.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_17_ProcessesDomens\DefaultAppDomain\obj\Debug\DefaultAppDomain.pdb

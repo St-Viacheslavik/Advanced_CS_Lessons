@@ -4,3 +4,4 @@ E:\Programming\C#\Advanced_CS_Lessons\Chapter_17_ProcessesDomens\ProcessManipula
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_17_ProcessesDomens\ProcessManipulator\obj\Debug\ProcessManipulator.csproj.CoreCompileInputs.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_17_ProcessesDomens\ProcessManipulator\obj\Debug\ProcessManipulator.exe
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_17_ProcessesDomens\ProcessManipulator\obj\Debug\ProcessManipulator.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_17_ProcessesDomens\ProcessManipulator\obj\Debug\ProcessManipulator.csproj.AssemblyReference.cache
