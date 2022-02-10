@@ -2,8 +2,8 @@ E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\CSharpSnapIn\bin\Deb
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\CSharpSnapIn\bin\Debug\CSharpSnapIn.pdb
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\CSharpSnapIn\bin\Debug\CommonSnappableTypes.dll
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\CSharpSnapIn\bin\Debug\CommonSnappableTypes.pdb
-E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\CSharpSnapIn\obj\Debug\CSharpSnapIn.csprojAssemblyReference.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\CSharpSnapIn\obj\Debug\CSharpSnapIn.csproj.CoreCompileInputs.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\CSharpSnapIn\obj\Debug\CSharpSnapIn.csproj.CopyComplete
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\CSharpSnapIn\obj\Debug\CSharpSnapIn.dll
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\CSharpSnapIn\obj\Debug\CSharpSnapIn.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\CSharpSnapIn\obj\Debug\CSharpSnapIn.csproj.AssemblyReference.cache

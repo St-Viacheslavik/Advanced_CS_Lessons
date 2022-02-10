@@ -4,4 +4,4 @@ E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\SimpleIndexer\b
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\SimpleIndexer\obj\Debug\SimpleIndexer.csproj.CoreCompileInputs.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\SimpleIndexer\obj\Debug\SimpleIndexer.exe
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\SimpleIndexer\obj\Debug\SimpleIndexer.pdb
-E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\SimpleIndexer\obj\Debug\SimpleIndexer.csprojAssemblyReference.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_11_AdvancedToolsCS\SimpleIndexer\obj\Debug\SimpleIndexer.csproj.AssemblyReference.cache

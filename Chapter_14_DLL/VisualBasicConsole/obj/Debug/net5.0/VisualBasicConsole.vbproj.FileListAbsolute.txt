@@ -7,7 +7,6 @@ E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\VisualBasicConsole\bin\Debu
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\VisualBasicConsole\bin\Debug\net5.0\VisualBasicConsole.pdb
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\VisualBasicConsole\bin\Debug\net5.0\CarLibrary.dll
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\VisualBasicConsole\bin\Debug\net5.0\CarLibrary.pdb
-E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\VisualBasicConsole\obj\Debug\net5.0\VisualBasicConsole.vbprojAssemblyReference.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\VisualBasicConsole\obj\Debug\net5.0\VisualBasicConsole.GeneratedMSBuildEditorConfig.editorconfig
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\VisualBasicConsole\obj\Debug\net5.0\VisualBasicConsole.AssemblyInfoInputs.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\VisualBasicConsole\obj\Debug\net5.0\VisualBasicConsole.AssemblyInfo.vb
@@ -17,3 +16,4 @@ E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\VisualBasicConsole\obj\Debu
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\VisualBasicConsole\obj\Debug\net5.0\ref\VisualBasicConsole.dll
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\VisualBasicConsole\obj\Debug\net5.0\VisualBasicConsole.pdb
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\VisualBasicConsole\obj\Debug\net5.0\VisualBasicConsole.genruntimeconfig.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\VisualBasicConsole\obj\Debug\net5.0\VisualBasicConsole.vbproj.AssemblyReference.cache

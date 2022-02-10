@@ -1,0 +1,7 @@
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_18_LanguageCIL\MyAsmBuilder\bin\Debug\MyAsmBuilder.exe.config
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_18_LanguageCIL\MyAsmBuilder\bin\Debug\MyAsmBuilder.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_18_LanguageCIL\MyAsmBuilder\bin\Debug\MyAsmBuilder.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_18_LanguageCIL\MyAsmBuilder\obj\Debug\MyAsmBuilder.csproj.AssemblyReference.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_18_LanguageCIL\MyAsmBuilder\obj\Debug\MyAsmBuilder.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_18_LanguageCIL\MyAsmBuilder\obj\Debug\MyAsmBuilder.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_18_LanguageCIL\MyAsmBuilder\obj\Debug\MyAsmBuilder.pdb

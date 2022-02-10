@@ -6,3 +6,4 @@ E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\SimpleReflection\obj
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\SimpleReflection\obj\Debug\SimpleReflection.csproj.CopyComplete
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\SimpleReflection\obj\Debug\SimpleReflection.exe
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\SimpleReflection\obj\Debug\SimpleReflection.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\SimpleReflection\obj\Debug\SimpleReflection.csproj.AssemblyReference.cache

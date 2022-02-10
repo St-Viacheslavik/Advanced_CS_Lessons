@@ -4,3 +4,4 @@ E:\Programming\C#\Advanced_CS_Lessons\Chapter_16_DynamicTypes\ExportDataToOffice
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_16_DynamicTypes\ExportDataToOfficeApp\obj\Debug\ExportDataToOfficeApp.csproj.CoreCompileInputs.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_16_DynamicTypes\ExportDataToOfficeApp\obj\Debug\ExportDataToOfficeApp.exe
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_16_DynamicTypes\ExportDataToOfficeApp\obj\Debug\ExportDataToOfficeApp.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_16_DynamicTypes\ExportDataToOfficeApp\obj\Debug\ExportDataToOfficeApp.csproj.AssemblyReference.cache

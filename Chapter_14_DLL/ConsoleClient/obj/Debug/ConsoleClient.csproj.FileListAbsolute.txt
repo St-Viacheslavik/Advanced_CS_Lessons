@@ -3,8 +3,8 @@ E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\ConsoleClient\bin\Debug\Con
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\ConsoleClient\bin\Debug\ConsoleClient.pdb
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\ConsoleClient\bin\Debug\CarLibrary.dll
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\ConsoleClient\bin\Debug\CarLibrary.pdb
-E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\ConsoleClient\obj\Debug\ConsoleClient.csprojAssemblyReference.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\ConsoleClient\obj\Debug\ConsoleClient.csproj.CoreCompileInputs.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\ConsoleClient\obj\Debug\ConsoleClient.csproj.CopyComplete
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\ConsoleClient\obj\Debug\ConsoleClient.exe
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\ConsoleClient\obj\Debug\ConsoleClient.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\ConsoleClient\obj\Debug\ConsoleClient.csproj.AssemblyReference.cache

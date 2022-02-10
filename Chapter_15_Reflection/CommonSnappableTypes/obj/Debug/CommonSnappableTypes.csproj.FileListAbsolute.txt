@@ -1,6 +1,6 @@
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\CommonSnappableTypes\bin\Debug\CommonSnappableTypes.dll
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\CommonSnappableTypes\bin\Debug\CommonSnappableTypes.pdb
-E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\CommonSnappableTypes\obj\Debug\CommonSnappableTypes.csprojAssemblyReference.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\CommonSnappableTypes\obj\Debug\CommonSnappableTypes.csproj.CoreCompileInputs.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\CommonSnappableTypes\obj\Debug\CommonSnappableTypes.dll
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\CommonSnappableTypes\obj\Debug\CommonSnappableTypes.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\CommonSnappableTypes\obj\Debug\CommonSnappableTypes.csproj.AssemblyReference.cache

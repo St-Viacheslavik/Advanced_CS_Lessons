@@ -12,6 +12,11 @@ namespace ProcessManipulator
         {
             Console.Title = "Работа с процессами";
             Console.ForegroundColor = ConsoleColor.Green;
+            Func<string> s;
+            s = () => "a";
+            s += () => "b";
+            s += () => "c";
+            Console.WriteLine(s());
             ListAllRunningProcess();
             Console.Write("Введите PID = ");
             var pid = int.Parse(Console.ReadLine() ?? throw new InvalidOperationException());

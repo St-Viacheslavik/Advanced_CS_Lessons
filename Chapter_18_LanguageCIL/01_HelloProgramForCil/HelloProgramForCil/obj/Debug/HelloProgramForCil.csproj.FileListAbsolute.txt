@@ -1,0 +1,7 @@
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_18_LanguageCIL\HelloProgramForCil\HelloProgramForCil\bin\Debug\HelloProgramForCil.exe.config
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_18_LanguageCIL\HelloProgramForCil\HelloProgramForCil\bin\Debug\HelloProgramForCil.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_18_LanguageCIL\HelloProgramForCil\HelloProgramForCil\bin\Debug\HelloProgramForCil.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_18_LanguageCIL\HelloProgramForCil\HelloProgramForCil\obj\Debug\HelloProgramForCil.csproj.AssemblyReference.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_18_LanguageCIL\HelloProgramForCil\HelloProgramForCil\obj\Debug\HelloProgramForCil.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_18_LanguageCIL\HelloProgramForCil\HelloProgramForCil\obj\Debug\HelloProgramForCil.exe
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_18_LanguageCIL\HelloProgramForCil\HelloProgramForCil\obj\Debug\HelloProgramForCil.pdb

@@ -4,3 +4,4 @@ E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\ApplyingAttributes\b
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\ApplyingAttributes\obj\Debug\ApplyingAttributes.csproj.CoreCompileInputs.cache
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\ApplyingAttributes\obj\Debug\ApplyingAttributes.exe
 E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\ApplyingAttributes\obj\Debug\ApplyingAttributes.pdb
+E:\Programming\C#\Advanced_CS_Lessons\Chapter_15_Reflection\ApplyingAttributes\obj\Debug\ApplyingAttributes.csproj.AssemblyReference.cache

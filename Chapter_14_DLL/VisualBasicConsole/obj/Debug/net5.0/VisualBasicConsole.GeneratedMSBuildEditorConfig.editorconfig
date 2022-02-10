@@ -6,3 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = VisualBasicConsole
+build_property.ProjectDir = E:\Programming\C#\Advanced_CS_Lessons\Chapter_14_DLL\VisualBasicConsole\
